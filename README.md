@@ -7,7 +7,7 @@ This project focuses on analyzing a Gym Membership Dataset using Excel to provid
 ## THE PROJECT WORKFLOW:
 ### 1. Data Cleaning:
 
-The dataset undergoes extensive data cleaning, including the removal of duplicates, handling of missing values, and correction of data types (e.g., ensuring dates are formatted correctly, transforming personal_training into a binary format). Outlier detection and correction are performed to ensure data quality, and missing values are imputed using statistical methods like mean, median, or mode depending on the data type.
+The dataset undergoes extensive data cleaning, including the removal of duplicates, handling of missing values, and correction of data types (e.g., ensuring dates are formatted correctly, and transforming personal_training into a binary format). Outlier detection and correction are performed to ensure data quality, and missing values are imputed using statistical methods like mean, median, or mode depending on the data type.
 
 ### 2. Data Transformation:
 
