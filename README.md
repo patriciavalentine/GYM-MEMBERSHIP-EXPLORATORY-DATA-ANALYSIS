@@ -4,11 +4,10 @@ This project focuses on analyzing a Gym Membership Dataset using Excel to provid
 
 > The dataset includes key details such as member demographics (id, first_name, gender, birthday, and age), subscription type (abonoment_type), gym attendance metrics (visit_per_week, days_per_week, avg_time_in_gym), and additional features such as personal training and group lesson participation.
 
-## Project Workflow:
+## THE PROJECT WORKFLOW:
 ### 1. Data Cleaning:
 
 The dataset undergoes extensive data cleaning, including the removal of duplicates, handling of missing values, and correction of data types (e.g., ensuring dates are formatted correctly, transforming personal_training into a binary format). Outlier detection and correction are performed to ensure data quality, and missing values are imputed using statistical methods like mean, median, or mode depending on the data type.
-
 
 ### 2. Data Transformation:
 
