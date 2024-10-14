@@ -9,6 +9,7 @@ This project focuses on analyzing a Gym Membership Dataset using Excel to provid
 
 The dataset undergoes extensive data cleaning, including the removal of duplicates, handling of missing values, and correction of data types (e.g., ensuring dates are formatted correctly, transforming personal_training into a binary format). Outlier detection and correction are performed to ensure data quality, and missing values are imputed using statistical methods like mean, median, or mode depending on the data type.
 
+
 ### 2. Data Transformation:
 
 Additional columns are calculated to enhance the dataset, such as age derived from birthdate using Excel's DATEDIF function. Weekly attendance is calculated based on the number of visits per day. Age is categorized into meaningful groups (e.g., 18-25, 26-35) for deeper demographic analysis, and time values (e.g., check-in/check-out times) are formatted for readability.
