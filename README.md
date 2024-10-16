@@ -1,11 +1,11 @@
 # 📊 GYM MEMBERSHIP ANALYSIS
 
-This project analyzes a Gym Membership Dataset using Excel to provide actionable insights into member behaviors and usage patterns within the gym.
+This project analyzes a Gym Membership Dataset using `Microsoft Excel` to provide actionable insights into member behaviors and usage patterns within the gym.
 
-#### Source of Data:
+### Source of Data:
 - [Kaggle](https://www.kaggle.com/datasets/ka66ledata/gym-membership-dataset)
 
-#### Sample of the Dataset:
+### Sample of the Dataset:
 ![Gym Membership Dataset Sample](https://github.com/user-attachments/assets/1807951f-2df5-4d51-b03d-0a914791ebdb)
 
 *The dataset includes key details such as member demographics (id, first_name, gender, birthday, and age), subscription type (abonoment_type), gym attendance metrics (visit_per_week, days_per_week, avg_time_in_gym), and additional features such as personal training and group lesson participation.*
