@@ -5,7 +5,10 @@ This project analyzes a Gym Membership Dataset using Excel to provide actionable
 #### Source of Data:
 - [Kaggle](https://www.kaggle.com/datasets/ka66ledata/gym-membership-dataset)
 
-> The dataset includes key details such as member demographics (id, first_name, gender, birthday, and age), subscription type (abonoment_type), gym attendance metrics (visit_per_week, days_per_week, avg_time_in_gym), and additional features such as personal training and group lesson participation.
+#### Sample of the Dataset:
+![Gym Membership Dataset Sample](https://github.com/user-attachments/assets/1807951f-2df5-4d51-b03d-0a914791ebdb)
+
+*The dataset includes key details such as member demographics (id, first_name, gender, birthday, and age), subscription type (abonoment_type), gym attendance metrics (visit_per_week, days_per_week, avg_time_in_gym), and additional features such as personal training and group lesson participation.*
 
 ## 🧑‍💻 THE PROJECT WORKFLOW:
 ### 1. Data Cleaning:
