@@ -20,13 +20,21 @@ The EDA involved answering key questions, such as:
 *The dataset includes key details such as member demographics (id, first_name, gender, birthday, and age), subscription type (abonoment_type), gym attendance metrics (visit_per_week, days_per_week, avg_time_in_gym), and additional features such as personal training and group lesson participation.*
 
 ## 🧑‍💻 THE PROJECT WORKFLOW:
-### 1. Data Cleaning:
+### Data Cleaning and Preparation
+The first step in the project involved thoroughly cleaning and preparing the dataset to ensure the integrity and quality of the analysis.
+Key data cleaning tasks included:
+1. **Duplicate Handling**: No duplicate entries were found in the dataset, ensuring the uniqueness of each member's data.
+2. **Missing Data/Blanks**: There were no unnecessary missing values or blank entries, further reinforcing the dataset's reliability.
+3. **Column Formatting**: The following columns were appropriately formatted to match their data types:
+- `birthday` was formatted into a date format to accurately reflect members' birthdates.
+- `avg_time_check_in` and `avg_time_check_out` were formatted into time formats to properly display gym check-in and check-out times.
+- `Age`, `visit_per_week`, and `avg_time_in_gym` were formatted into number formats with zero decimal places for clarity in analysis.
+4. **Conditional Formatting**: Applied to highlight:
+- Members with premium memberships.
+- Members with personal trainers.
+5. **Addition of a Necessary Column - `Age Groups`: An additional column was created to classify members into age groups, with the following categories: *Below 18, 18-25, 26-35, 36-45, Above 45*.
 
-The dataset undergoes extensive data cleaning, including the removal of duplicates, handling of missing values, and correction of data types (e.g., ensuring dates are formatted correctly, and transforming personal_training into a binary format). Outlier detection and correction are performed to ensure data quality, and missing values are imputed using statistical methods like mean, median, or mode depending on the data type.
 
-### 2. Data Transformation:
-
-Additional columns are calculated to enhance the dataset, such as age derived from birthdate using Excel's DATEDIF function. Weekly attendance is calculated based on the number of visits per day. Age is categorized into meaningful groups (e.g., 18-25, 26-35) for deeper demographic analysis, and time values (e.g., check-in/check-out times) are formatted for readability.
 
 ### 3. Data Analysis:
 
