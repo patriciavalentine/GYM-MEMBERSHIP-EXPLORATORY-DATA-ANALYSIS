@@ -2,6 +2,14 @@
 
 This project analyzes a Gym Membership Dataset using `Microsoft Excel` to provide actionable insights into member behaviors and usage patterns within the gym.
 
+The EDA involved answering key questions, such as:
+- What is the average gym attendance per week for different membership types?
+- What percentage of members attend group lessons, and what are their favorite group lessons?
+- How does personal training affect gym attendance?
+- What are the peak times for gym usage (check-in/check-out times)?
+- What is the gender distribution of members across different membership types?
+
+
 ### Source of Data:
 - [Kaggle](https://www.kaggle.com/datasets/ka66ledata/gym-membership-dataset)
 
