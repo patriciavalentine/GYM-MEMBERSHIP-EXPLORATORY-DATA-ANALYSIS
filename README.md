@@ -1,6 +1,6 @@
 # 📊 GYM MEMBERSHIP ANALYSIS
 
-This project details the data analysis conducted on a Gym Membership Dataset, encompassing data cleaning, exploration, calculation of key metrics, and data visualization using `Microsoft Excel`. The [dataset](https://www.kaggle.com/datasets/ka66ledata/gym-membership-dataset) obtained from `Kaggle`, contains crucial member details such as membership types, personal training status, gym attendance, and gym time, among other details.
+This project details the data analysis conducted on a Gym Membership Dataset, encompassing data cleaning, exploration, calculation of key metrics, and data visualization using `Microsoft Excel`. The dataset obtained from `Kaggle`, contains crucial member details such as membership types, personal training status, gym attendance, and gym time, among other details.
 > The objective of this analysis was to extract meaningful insights regarding gym usage patterns, demographics, and member behavior, which will assist in decision-making and enhancing gym services.
 
 The EDA involved answering key questions, such as:
@@ -62,13 +62,13 @@ Key data cleaning tasks included:
 - Members with personal trainers.
 5. **Addition of a Necessary Column - `Age Groups`**: An additional column was created to classify members into age groups, with the following categories: *Below 18, 18-25, 26-35, 36-45, Above 45*.
 
-### Pivot Table Analysis
+### ⚖️ Pivot Table Analysis
 Pivot tables were used to summarize and analyze key aspects of the dataset. The following pivot tables were created:
 - Gym Attendance by Age Group: This analysis revealed that the 26-35 age group had the highest gym attendance, followed closely by the 18-25 and 36-45 groups.
 - Total Gym Time by Membership Type: This breakdown demonstrated that both premium and standard members have similar total gym time, indicating no significant difference in gym usage between the two groups.
 - Visits per Week by Personal Training Status: Members with personal trainers averaged higher gym visits, showing a positive impact of personal training on gym attendance.
 
-### Visualizations
+### 📈 Visualizations
 The following visualizations were created to further communicate the insights:
 1. **Bar Chart**: Distribution of Gym Membership by Gender - This chart illustrated that gym membership is relatively balanced between genders, with a slightly higher representation of male members.
 
@@ -78,7 +78,10 @@ The following visualizations were created to further communicate the insights:
 
 4. **Doughnut Chart**: Distribution by Age Group - This chart revealed that the most common age groups are 18-25 and 26-35, indicating that the gym appeals largely to young adults.
 
-### Conclusion
+### 🖥️ Conclusion
 This project leverages Excel’s advanced functionalities to transform raw membership data into a comprehensive analysis of gym usage, member behavior, and operational efficiency
 The analysis thus provided key insights that showed how the gym is attracting a young and engaged audience, with half of the members participating in group lessons and a large portion visiting regularly.
 The findings are visualized in a dashboard, enabling data-driven decision-making to enhance the gym’s services and member engagement strategies.
+
+## THE END!
+### Thank you 😄.
