@@ -16,7 +16,7 @@ The EDA involved answering key questions, such as:
 ## 📂 Project Files
 1. [The Raw Dataset](https://github.com/patriciavalentine/GYM-MEMBERSHIP-ANALYSIS/blob/main/Raw%20Gym%20Membership%20Dataset.xlsx)
 2. [The Analysed Excel File](https://github.com/patriciavalentine/GYM-MEMBERSHIP-ANALYSIS/blob/main/Gym%20Membership%20Analysis.xlsx)
-3. [The Project Report](
+3. [The Project Report](https://github.com/patriciavalentine/GYM-MEMBERSHIP-ANALYSIS/blob/main/REPORT%20ON%20GYM%20MEMBERSHIP%20DATA%20ANALYSIS%20PROJECT.pdf)
 
 
 ## 🧑‍💻 Insights
@@ -32,7 +32,7 @@ Below are some of the insights gained:
 - 220 members visit the gym more than three times a week, indicating high engagement from a subset of the members.
 - 145 members are under 18 years old, showing that the gym also attracts a younger demographic.
 - Member Jamey visits the gym 3 times per week, slightly higher than the overall average attendance.
-> For a detailed explanation into these insights, view the project report!
+> For a detailed explanation of these insights, view the project report [here](https://github.com/patriciavalentine/GYM-MEMBERSHIP-ANALYSIS/blob/main/REPORT%20ON%20GYM%20MEMBERSHIP%20DATA%20ANALYSIS%20PROJECT.pdf)!
 
 
 ## 💻 Recommendations
@@ -80,7 +80,5 @@ The following visualizations were created to further communicate the insights:
 
 ### Conclusion
 This project leverages Excel’s advanced functionalities to transform raw membership data into a comprehensive analysis of gym usage, member behavior, and operational efficiency
-
-The analysis of the Gym Membership Dataset provided key insights that showed how the gym is attracting a young and engaged audience, with half of the members participating in group lessons and a large portion visiting regularly.
-
-The findings are visualized in an interactive dashboard, enabling data-driven decision-making to enhance the gym’s services and member engagement strategies.
+The analysis thus provided key insights that showed how the gym is attracting a young and engaged audience, with half of the members participating in group lessons and a large portion visiting regularly.
+The findings are visualized in a dashboard, enabling data-driven decision-making to enhance the gym’s services and member engagement strategies.
