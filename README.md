@@ -32,21 +32,31 @@ Key data cleaning tasks included:
 4. **Conditional Formatting**: Applied to highlight:
 - Members with premium memberships.
 - Members with personal trainers.
-5. **Addition of a Necessary Column - `Age Groups`: An additional column was created to classify members into age groups, with the following categories: *Below 18, 18-25, 26-35, 36-45, Above 45*.
+5. **Addition of a Necessary Column - `Age Groups`**: An additional column was created to classify members into age groups, with the following categories: *Below 18, 18-25, 26-35, 36-45, Above 45*.
+
+### Insights
+Using `Excel formulas`, several key metrics were calculated to explore the dataset further and uncover trends in gym usage and membership characteristics.
+Below are some of the insights gained.
+- 518 members use personal trainers, showing strong demand for personalized fitness guidance.
+- Premium and standard members have similar total gym time, with 49,589 hours and 52,011 hours, respectively.
+- Both premium and standard members visit the gym about 2.68 times per week, indicating no significant difference in attendance based on membership type.
+- The weak correlation (0.0659) between visit frequency and time spent in the gym suggests that frequent visitors don’t necessarily spend more time at the gym.
+- 50.25% of members attend group lessons, making them a popular gym feature.
+- The median age of gym members is 30 years, highlighting a predominantly young adult clientele.
+- The standard deviation of 1.24 visits per week shows moderate variation in gym attendance frequency.
+- 220 members visit the gym more than three times a week, indicating high engagement from a subset of the members.
+- 145 members are under 18 years old, showing that the gym also attracts a younger demographic.
+- Member Jamey visits the gym 3 times per week, slightly higher than the overall average attendance.
+> For a detailed explanation into these insights, view the project report [here](
 
 
+### Recommendations
+1. The gym could enhance the value of premium memberships by offering more exclusive perks or incentivizing more frequent visits through loyalty programs or personalized experiences.
+2. The gym should consider expanding the variety and schedule of group lessons to accommodate demand and attract more members to participate.
+3. Promoting personal training services or offering discounted packages for new members could increase overall gym attendance and boost engagement.
+4. Since the gym’s membership base skews young, with a median age of 30 and a significant portion of members under 35. The gym should continue tailoring its marketing strategies and services to appeal to this demographic, possibly incorporating more high-intensity workouts and fitness challenges that resonate with younger adults.
 
-### 3. Data Analysis:
-
-> Using a variety of Excel functions and tools, in-depth analysis is conducted:
-
-Pivot Tables summarize key metrics like average gym time by gender, or the distribution of members across different membership types.
-
-Statistical Functions (e.g., COUNTIF, SUMIF, AVERAGEIF) explore relationships between variables such as the impact of personal training on attendance frequency or the favorite group lessons among different member segments.
-
-Trend and Correlation Analysis is performed using Excel's FORECAST and CORREL functions to predict future gym attendance and explore relationships between variables like visit frequency and time spent in the gym.
-
-### 4. Visualization:
+### Visualization:
 
 > Visual insights are created using a range of Excel charts:
 
@@ -60,9 +70,10 @@ Heatmaps generated through Conditional Formatting highlight areas like high-freq
 
 An interactive Excel dashboard is developed using slicers, filters, and linked Pivot Tables/Charts to provide a dynamic reporting tool for stakeholders.
 
-## Insights and Recommendations:
 
-The project reveals significant insights such as the gym’s peak times, popular group lessons, the impact of personal training on member retention, and membership types that drive higher attendance. Based on the analysis, recommendations are provided, such as optimizing group lesson schedules, increasing staff during peak hours, or tailoring membership offers to attract specific age groups.
+### Conclusion
+This project leverages Excel’s advanced functionalities to transform raw membership data into a comprehensive analysis of gym usage, member behavior, and operational efficiency
 
-## Conclusion:
-This project leverages Excel’s advanced functionalities to transform raw membership data into a comprehensive analysis of gym usage, member behavior, and operational efficiency. The findings are visualized in an interactive dashboard, enabling data-driven decision-making to enhance the gym’s services and member engagement strategies.
+The analysis of the Gym Membership Dataset provided key insights that showed how the gym is attracting a young and engaged audience, with half of the members participating in group lessons and a large portion visiting regularly.
+
+The findings are visualized in an interactive dashboard, enabling data-driven decision-making to enhance the gym’s services and member engagement strategies.
