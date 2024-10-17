@@ -1,6 +1,7 @@
 # 📊 GYM MEMBERSHIP ANALYSIS
 
-This project analyzes a Gym Membership Dataset using `Microsoft Excel` to provide actionable insights into member behaviors and usage patterns within the gym.
+This project details the data analysis conducted on a Gym Membership Dataset, encompassing data cleaning, exploration, calculation of key metrics, and data visualization using `Microsoft Excel`. The dataset contains crucial member details such as membership types, personal training status, gym attendance, and gym time, among other details.
+> The objective of this analysis was to extract meaningful insights regarding gym usage patterns, demographics, and member behavior, which will assist in decision-making and enhancing gym services.
 
 The EDA involved answering key questions, such as:
 - What is the average gym attendance per week for different membership types?
