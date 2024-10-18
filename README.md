@@ -1,4 +1,4 @@
-# 📊 GYM MEMBERSHIP ANALYSIS
+# 📊 GYM MEMBERSHIP EXPLORATORY DATA ANALYSIS
 
 This project details the data analysis conducted on a Gym Membership Dataset, encompassing data cleaning, exploration, calculation of key metrics, and data visualization using `Microsoft Excel`. The dataset obtained from `Kaggle`, contains crucial member details such as membership types, personal training status, gym attendance, and gym time, among other details.
 > The objective of this analysis was to extract meaningful insights regarding gym usage patterns, demographics, and member behavior, which will assist in decision-making and enhancing gym services.
