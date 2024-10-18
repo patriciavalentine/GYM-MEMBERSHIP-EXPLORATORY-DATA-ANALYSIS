@@ -68,7 +68,7 @@ Pivot tables were used to summarize and analyze key aspects of the dataset. The 
 - Total Gym Time by Membership Type: This breakdown demonstrated that both premium and standard members have similar total gym time, indicating no significant difference in gym usage between the two groups.
 - Visits per Week by Personal Training Status: Members with personal trainers averaged higher gym visits, showing a positive impact of personal training on gym attendance.
 
-### 📈 Visualizations
+### 📈 VISUALIZATIONS
 The following visualizations were created to further communicate the insights:
 1. **Bar Chart**: Distribution of Gym Membership by Gender - This chart illustrated that gym membership is relatively balanced between genders, with a slightly higher representation of male members.
 
