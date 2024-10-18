@@ -6,7 +6,7 @@ This project details the data analysis conducted on a Gym Membership Dataset, en
 The EDA involved answering key questions, such as:
 - How many members have personal trainers? What percentage of members attend group lessons?
 - What is the total gym time for premium members versus standard members?
-- Is there a correlation between the number of visits per week and the average time spent in the gym?
+- Is there a correlation between the number of visits_per_week and the average time spent in the gym?
 - What is the median age of the gym members?
 - What is the standard deviation of gym visits per week?
 - How many members attend the gym more than three times per week?
