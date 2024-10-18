@@ -48,7 +48,7 @@ Below are some of the insights gained:
 *The dataset includes key details such as member demographics (id, first_name, gender, birthday, and age), subscription type (abonoment_type), gym attendance metrics (visit_per_week, days_per_week, avg_time_in_gym), and additional features such as personal training and group lesson participation.*
 
 ## 🧑‍💻 THE PROJECT WORKFLOW
-### Data Cleaning and Preparation
+### DATA CLEANING & PREPARATION
 The first step in the project involved thoroughly cleaning and preparing the dataset to ensure the integrity and quality of the analysis.
 Key data cleaning tasks included:
 1. **Duplicate Handling**: No duplicate entries were found in the dataset, ensuring the uniqueness of each member's data.
