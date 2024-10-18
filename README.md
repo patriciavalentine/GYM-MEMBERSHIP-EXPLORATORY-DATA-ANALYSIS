@@ -28,11 +28,11 @@ Below are some of the insights gained:
 - The weak correlation (0.0659) between visit frequency and time spent in the gym suggests that frequent visitors don’t necessarily spend more time at the gym.
 - 50.25% of members attend group lessons, making them a popular gym feature.
 - The median age of gym members is 30 years, highlighting a predominantly young adult clientele.
-- The standard deviation of 1.24 visits per week shows moderate variation in gym attendance frequency.
+- The standard deviation of 1.24 visits_per_week shows moderate variation in gym attendance frequency.
 - 220 members visit the gym more than three times a week, indicating high engagement from a subset of the members.
 - 145 members are under 18 years old, showing that the gym also attracts a younger demographic.
 - Member Jamey visits the gym 3 times per week, slightly higher than the overall average attendance.
-> For a detailed explanation of these insights, view the project report [here](https://github.com/patriciavalentine/GYM-MEMBERSHIP-ANALYSIS/blob/main/REPORT%20ON%20GYM%20MEMBERSHIP%20DATA%20ANALYSIS%20PROJECT.pdf)!
+> For a detailed explanation of how these insights were arrived at, view the project report [here](https://github.com/patriciavalentine/GYM-MEMBERSHIP-ANALYSIS/blob/main/REPORT%20ON%20GYM%20MEMBERSHIP%20DATA%20ANALYSIS%20PROJECT.pdf)!
 
 
 ## 💻 Recommendations
