@@ -62,7 +62,7 @@ Key data cleaning tasks included:
 - Members with personal trainers.
 5. **Addition of a Necessary Column - `Age Groups`**: An additional column was created to classify members into age groups, with the following categories: *Below 18, 18-25, 26-35, 36-45, Above 45*.
 
-### ⚖️ Pivot Table Analysis
+### ⚖️ PIVOT TABLE ANALYSIS
 Pivot tables were used to summarize and analyze key aspects of the dataset. The following pivot tables were created:
 - Gym Attendance by Age Group: This analysis revealed that the 26-35 age group had the highest gym attendance, followed closely by the 18-25 and 36-45 groups.
 - Total Gym Time by Membership Type: This breakdown demonstrated that both premium and standard members have similar total gym time, indicating no significant difference in gym usage between the two groups.
