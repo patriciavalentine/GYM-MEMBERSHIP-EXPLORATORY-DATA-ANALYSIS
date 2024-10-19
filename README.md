@@ -81,7 +81,7 @@ The following visualizations were created to further communicate the insights:
 
 4. **Doughnut Chart**: Distribution by Age Group - This chart revealed that the most common age groups are 18-25 and 26-35, indicating that the gym appeals largely to young adults.
 
-### 🖥️ Conclusion
+## 🖥️ CONCLUSION
 This project leverages Excel’s advanced functionalities to transform raw membership data into a comprehensive analysis of gym usage, member behavior, and operational efficiency
 The analysis thus provided key insights that showed how the gym is attracting a young and engaged audience, with half of the members participating in group lessons and a large portion visiting regularly.
 The findings are visualized in a dashboard, enabling data-driven decision-making to enhance the gym’s services and member engagement strategies.
