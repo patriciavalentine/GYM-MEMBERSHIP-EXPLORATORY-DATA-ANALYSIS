@@ -65,8 +65,11 @@ Key data cleaning tasks included:
 ### ⚖️ PIVOT TABLE ANALYSIS
 Pivot tables were used to summarize and analyze key aspects of the dataset. The following pivot tables were created:
 - Gym Attendance by Age Group: This analysis revealed that the 26-35 age group had the highest gym attendance, followed closely by the 18-25 and 36-45 groups.
-- Total Gym Time by Membership Type: This breakdown demonstrated that both premium and standard members have similar total gym time, indicating no significant difference in gym usage between the two groups.
+- Total Gym Time by Membership Type: This breakdown demonstrated that both premium and standard members have almost similar total gym time, indicating no significant difference in gym usage between the two groups.
 - Visits per Week by Personal Training Status: Members with personal trainers averaged higher gym visits, showing a positive impact of personal training on gym attendance.
+- Gym Attendance by Gender: This analysis revealed that female attendees were slightly more than male attendees, ie 503 females and 497 males.
+- Total Gym Time by Group Sessions and Personal Trainer: This breakdown demonstrated that both members with or without group sessions and personal trainers had almost similar total gym time, indicating no significant difference in gym usage between them.
+
 
 ### 📈 VISUALIZATIONS
 The following visualizations were created to further communicate the insights:
