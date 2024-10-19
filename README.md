@@ -3,6 +3,7 @@
 This project details the data analysis conducted on a Gym Membership Dataset, encompassing data cleaning, exploration, calculation of key metrics, and data visualization using `Microsoft Excel`. The dataset obtained from `Kaggle`, contains crucial member details such as membership types, personal training status, gym attendance, and gym time, among other details.
 > The objective of this analysis was to extract meaningful insights regarding gym usage patterns, demographics, and member behavior, which will assist in decision-making and enhancing gym services.
 
+
 The EDA involved answering key questions, such as:
 - How many members have personal trainers? What percentage of members attend group lessons?
 - What is the total gym time for premium members versus standard members?
