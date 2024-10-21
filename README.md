@@ -69,6 +69,7 @@ Key metrics related to gym usage and member behavior were derived using a variet
 - The `COUNTIF` function was utilized to determine how many members have personal trainers and to identify specific member patterns, like those attending more than three gym sessions weekly or those under 18 years old.
 - The `SUMIF` function was employed to calculate the total gym time for different membership types by summing the gym hours based on membership category.
 - To understand average behaviors, the `AVERAGEIF` formula helped calculate the average number of weekly visits per member, categorized by membership type or individual member names.
+- The `VLOOKUP` function was also used to match specific member details across datasets.
 - Correlations between variables, such as the frequency of visits and time spent in the gym, were examined using the `CORREL` function. Excel’s `MEDIAN` and `STDEV.S` functions provided insights into the age distribution and the variability in gym attendance, while the percentage of members attending group lessons was derived by combining `COUNTIF` and `COUNTA` formulas.
 
 > Each formula played a critical role in revealing different dimensions of gym member behavior and overall usage patterns.
