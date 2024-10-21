@@ -64,6 +64,16 @@ Key data cleaning tasks included:
 5. **Addition of a Necessary Column - `Age Groups`**: An additional column was created to classify members into age groups, with the following categories: *Below 18, 18-25, 26-35, 36-45, Above 45*.
 
 
+### ⌨️ USE OF EXCEL FORMULAS
+Key metrics related to gym usage and member behavior were derived using a variety of Excel formulas.
+- The `COUNTIF` function was utilized to determine how many members have personal trainers and to identify specific member patterns, like those attending more than three gym sessions weekly or those under 18 years old.
+- The `SUMIF` function was employed to calculate the total gym time for different membership types by summing the gym hours based on membership category.
+- To understand average behaviors, the `AVERAGEIF` formula helped calculate the average number of weekly visits per member, categorized by membership type or individual member names.
+- Correlations between variables, such as the frequency of visits and time spent in the gym, were examined using the `CORREL` function. Excel’s `MEDIAN` and `STDEV.S` functions provided insights into the age distribution and the variability in gym attendance, while the percentage of members attending group lessons was derived by combining `COUNTIF` and `COUNTA` formulas.
+
+> Each formula played a critical role in revealing different dimensions of gym member behavior and overall usage patterns.
+
+
 ### ⚖️ PIVOT TABLE ANALYSIS
 Pivot tables were used to summarize and analyze key aspects of the dataset. The following pivot tables were created:
 - Gym Attendance by Age Group: This analysis revealed that the 26-35 age group had the highest gym attendance, followed closely by the 18-25 and 36-45 groups.
